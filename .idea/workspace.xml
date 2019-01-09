@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bf8b273b-0ddb-4dd1-8b7c-1220c056d66e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/bg1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/fonts/element-icons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/fonts/element-icons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/fonts/element-icons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/fonts/element-icons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/logo4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/user.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.babelrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/404.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/App.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/nav1/Form.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/Home.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/Login.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/Main.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/nav2/Page4.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/nav2/Page5.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/nav3/Page6.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/nav1/Table.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/vuex/actions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/nav4/admin.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/alert.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/alert.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/api/api.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/autocomplete.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/autocomplete.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/badge.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/badge.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/breadcrumb-item.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/breadcrumb-item.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/breadcrumb.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/breadcrumb.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/build.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/button-group.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/button-group.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/button.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/button.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/card.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/card.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/carousel-item.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/carousel-item.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/carousel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/carousel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/cascader.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/cascader.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/check-versions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/checkbox-group.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/checkbox-group.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/checkbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/checkbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/col.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/col.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/collapse-item.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/collapse-item.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/collapse.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/collapse.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/color-picker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/color-picker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/date-picker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/date-picker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/dev-client.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/dev-server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/dev.env.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/dialog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/dialog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/dropdown-item.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/dropdown-item.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/dropdown-menu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/dropdown-menu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/dropdown.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/dropdown.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/charts/echarts.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/form-item.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/form-item.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/form.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/form.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/vuex/getters.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/icon.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/icon.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/api/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mock/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/nav7/inform.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/input-number.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/input-number.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/input.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/input.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/loading.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/loading.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/menu-item-group.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/menu-item-group.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/menu-item.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/menu-item.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/menu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/menu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/message-box.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/message-box.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/message.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/message.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mock/mock.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/nav7/noticeForm.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/notification.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/notification.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/option-group.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/option-group.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/option.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/option.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/nav8/optionList.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/pagination.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/pagination.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/popover.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/popover.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/prod.env.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/progress.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/progress.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/radio-button.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/radio-button.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/radio-group.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/radio-group.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/radio.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/radio.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/rate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/rate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/nav6/repairCompletedInfo.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/nav6/repairCurrentInfo.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/nav6/repairEcharts.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/routes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/row.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/row.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/scrollbar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/scrollbar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/select-dropdown.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/select-dropdown.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/select.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/select.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/slider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/slider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/spinner.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/spinner.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/nav5/staffInfo.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/step.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/step.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/steps.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/steps.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/vuex/store.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/nav5/studentInfo.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/submenu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/submenu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/nav4/superAdmin.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/switch.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/switch.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/tab-pane.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/tab-pane.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/table-column.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/table-column.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/table.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/table.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/tabs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/tabs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/tag.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/tag.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/time-picker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/time-picker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/time-select.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/time-select.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/tooltip.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/tooltip.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/tree.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/tree.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-darkblue/upload.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/theme/theme-green/upload.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mock/data/user.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/nav1/user.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/nav5/userCheck.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/common/js/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/vars.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vue-admin-master.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/vue-loader.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/webpack.base.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/webpack.dev.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/webpack.prod.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="vue-admin-master.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="vue-admin-master" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="309" />
+    <option name="y" value="49" />
+    <option name="width" value="1477" />
+    <option name="height" value="997" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vue-admin-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vue-admin-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vue-admin-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JsTestDriver-test-runner" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf8b273b-0ddb-4dd1-8b7c-1220c056d66e" name="Default" comment="" />
+      <created>1546931953517</created>
+      <option name="number" value="Default" />
+      <updated>1546931953517</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="309" y="49" width="1477" height="997" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25503823" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24924012" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32756633" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
